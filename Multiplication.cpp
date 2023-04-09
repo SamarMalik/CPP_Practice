@@ -11,6 +11,6 @@ int main()
 	cout<<"Please enter value number two";
 	cion>>valueTwo;
 	
-	cout<<valueOnexvalueTwo;
+	cout<<valueOne*valueTwo;
 }
 
